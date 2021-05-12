@@ -16,7 +16,7 @@
         "hasbin": "^1.2.3",
         "laravel-mix": "^6.0.19",
         "node-cmd": "^4.0.0",
-        "postcss": "^8.1.14",
+        "postcss": "^8.2.10",
         "sass": "^1.32.12",
         "sass-loader": "^11.0.1",
         "yargs": "^17.0.1"
